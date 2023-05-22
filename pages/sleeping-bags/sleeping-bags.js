@@ -7,7 +7,7 @@ import {
 } from "../../utils.js";
 
 const apiURL = "https://sleepingbagbackend.azurewebsites.net/api";
-const URL = apiURL + "/sleeping-bags";
+const URL = apiURL + "/sleeping-bags"
 
 let sleepingBags;
 let tripInfo = {};
