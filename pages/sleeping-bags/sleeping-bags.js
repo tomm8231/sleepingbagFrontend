@@ -1,3 +1,4 @@
+
 import {
   handleHttpErrors,
   sanitizeStringWithTableRows,
@@ -5,7 +6,7 @@ import {
   makeOptions,
 } from "../../utils.js";
 
-const apiURL = "sleepingbagbackend.azurewebsites.net";
+const apiURL = "https://sleepingbagbackend.azurewebsites.net";
 const URL = apiURL + "/sleeping-bags";
 
 let sleepingBags;
