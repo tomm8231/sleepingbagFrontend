@@ -5,7 +5,7 @@ import {
   makeOptions,
 } from "../../utils.js";
 
-const apiURL = "https://sovepose.azurewebsites.net/api";
+const apiURL = "sleepingbagbackend.azurewebsites.net";
 const URL = apiURL + "/sleeping-bags";
 
 let sleepingBags;
